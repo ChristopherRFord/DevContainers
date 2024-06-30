@@ -1,3 +1,6 @@
 [submodule "cpp-17-clang"]
 	path = cpp-17-clang
 	url = https://github.com/ChristopherRFord/DevContainers-cpp-17-clang
+[submodule "rust"]
+	path = rust
+	url = https://github.com/ChristopherRFord/DevContainers-rust
