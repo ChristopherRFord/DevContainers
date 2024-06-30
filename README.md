@@ -30,6 +30,7 @@ The **DevContainers** repository aims to simplify the process of setting up deve
 The repository currently includes development containers for the following languages and environments:
 
 - C++17 Clang/LLDB
+- Rust
 
 More containers will be added over time. If you have specific requirements or suggestions, feel free to contribute!
 
